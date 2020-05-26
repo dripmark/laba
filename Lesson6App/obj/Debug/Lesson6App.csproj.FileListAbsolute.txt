@@ -1,0 +1,7 @@
+C:\Users\zaqxs\source\repos\Lesson6App\Lesson6App\bin\Debug\Lesson6App.exe.config
+C:\Users\zaqxs\source\repos\Lesson6App\Lesson6App\bin\Debug\Lesson6App.exe
+C:\Users\zaqxs\source\repos\Lesson6App\Lesson6App\bin\Debug\Lesson6App.pdb
+C:\Users\zaqxs\source\repos\Lesson6App\Lesson6App\obj\Debug\Lesson6App.csprojAssemblyReference.cache
+C:\Users\zaqxs\source\repos\Lesson6App\Lesson6App\obj\Debug\Lesson6App.csproj.CoreCompileInputs.cache
+C:\Users\zaqxs\source\repos\Lesson6App\Lesson6App\obj\Debug\Lesson6App.exe
+C:\Users\zaqxs\source\repos\Lesson6App\Lesson6App\obj\Debug\Lesson6App.pdb
